@@ -1,1 +1,1 @@
-Hello world, this is Cristina Jourden
+Hello world! This is Cristina Jourden
